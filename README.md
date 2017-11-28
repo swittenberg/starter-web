@@ -18,3 +18,7 @@ Even more text
 ## Primary Work
 
 Please be the last text I need to add
+
+### Copyright	
+
+This is copyrighted text
