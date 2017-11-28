@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Stephen stephen@stephen.com @twirrer
 
 # THANKS
 
